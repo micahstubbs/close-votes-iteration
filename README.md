@@ -17,6 +17,7 @@ See Jan Willem's original code at this [block](http://bl.ocks.org/micahstubbs/c2
 ####planned
 
 + identify meaning of `"opk"` key in `results.json`
++ verify that the values in the `"chi"` array in `results.json` are [chi-squared test](http://stattrek.com/chi-square-test/independence.aspx) values calculated from `percentVote` values from the current city compared against the `percentVote` values from each other city in the dataset.
 
 
 
